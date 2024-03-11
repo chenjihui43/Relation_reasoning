@@ -1,0 +1,377 @@
+[
+  {
+    "entity_1": "灌夫",
+    "entity_2": "田蚡",
+    "relationship": "调查"
+  },
+  {
+    "entity_1": "灌夫",
+    "entity_2": "刘彻",
+    "relationship": "君臣"
+  },
+  {
+    "entity_1": "灌夫",
+    "entity_2": "刘启",
+    "relationship": "君臣"
+  },
+  {
+    "entity_1": "王娡",
+    "entity_2": "南宫公主",
+    "relationship": "母女"
+  },
+  {
+    "entity_1": "王娡",
+    "entity_2": "平阳公主",
+    "relationship": "母女"
+  },
+  {
+    "entity_1": "王娡",
+    "entity_2": "刘嫖",
+    "relationship": "利益"
+  },
+  {
+    "entity_1": "王娡",
+    "entity_2": "田蚡",
+    "relationship": "姐弟"
+  },
+  {
+    "entity_1": "王娡",
+    "entity_2": "刘彻",
+    "relationship": "母子"
+  },
+  {
+    "entity_1": "王娡",
+    "entity_2": "刘启",
+    "relationship": "嫔妃"
+  },
+  {
+    "entity_1": "南宫公主",
+    "entity_2": "伊稚斜单于",
+    "relationship": "夫妻"
+  },
+  {
+    "entity_1": "南宫公主",
+    "entity_2": "君臣单于",
+    "relationship": "夫妻"
+  },
+  {
+    "entity_1": "南宫公主",
+    "entity_2": "刘启",
+    "relationship": "父女"
+  },
+  {
+    "entity_1": "南宫公主",
+    "entity_2": "刘彻",
+    "relationship": "姐弟"
+  },
+  {
+    "entity_1": "南宫公主",
+    "entity_2": "田蚡",
+    "relationship": "舅父.外甥女"
+  },
+  {
+    "entity_1": "南宫公主",
+    "entity_2": "刘武",
+    "relationship": "叔父.侄女"
+  },
+  {
+    "entity_1": "南宫公主",
+    "entity_2": "刘弗陵",
+    "relationship": "姑侄"
+  },
+  {
+    "entity_1": "南宫公主",
+    "entity_2": "平阳公主",
+    "relationship": "姐妹"
+  },
+  {
+    "entity_1": "南宫公主",
+    "entity_2": "刘嫖",
+    "relationship": "姑侄女"
+  },
+  {
+    "entity_1": "霍去病",
+    "entity_2": "伊稚斜单于",
+    "relationship": "对手"
+  },
+  {
+    "entity_1": "霍去病",
+    "entity_2": "卫青",
+    "relationship": "舅父.外甥"
+  },
+  {
+    "entity_1": "霍去病",
+    "entity_2": "刘彻",
+    "relationship": "君臣"
+  },
+  {
+    "entity_1": "霍去病",
+    "entity_2": "卫子夫",
+    "relationship": "姨母.外甥"
+  },
+  {
+    "entity_1": "田蚡",
+    "entity_2": "平阳公主",
+    "relationship": "舅父.外甥女"
+  },
+  {
+    "entity_1": "田蚡",
+    "entity_2": "刘陵",
+    "relationship": "情人"
+  },
+  {
+    "entity_1": "田蚡",
+    "entity_2": "刘彻",
+    "relationship": "君臣"
+  },
+  {
+    "entity_1": "田蚡",
+    "entity_2": "刘启",
+    "relationship": "君臣"
+  },
+  {
+    "entity_1": "田蚡",
+    "entity_2": "窦婴",
+    "relationship": "同僚"
+  },
+  {
+    "entity_1": "平阳公主",
+    "entity_2": "刘启",
+    "relationship": "父女"
+  },
+  {
+    "entity_1": "平阳公主",
+    "entity_2": "刘彻",
+    "relationship": "姐弟"
+  },
+  {
+    "entity_1": "平阳公主",
+    "entity_2": "卫青",
+    "relationship": "夫妻"
+  },
+  {
+    "entity_1": "平阳公主",
+    "entity_2": "刘武",
+    "relationship": "叔父.侄女"
+  },
+  {
+    "entity_1": "平阳公主",
+    "entity_2": "刘弗陵",
+    "relationship": "姑侄"
+  },
+  {
+    "entity_1": "平阳公主",
+    "entity_2": "刘嫖",
+    "relationship": "姑侄女"
+  },
+  {
+    "entity_1": "平阳公主",
+    "entity_2": "卫子夫",
+    "relationship": "恩人"
+  },
+  {
+    "entity_1": "卫青",
+    "entity_2": "伊稚斜单于",
+    "relationship": "对手"
+  },
+  {
+    "entity_1": "卫青",
+    "entity_2": "刘彻",
+    "relationship": "君臣"
+  },
+  {
+    "entity_1": "卫青",
+    "entity_2": "卫子夫",
+    "relationship": "姐弟"
+  },
+  {
+    "entity_1": "卫子夫",
+    "entity_2": "刘彻",
+    "relationship": "夫妻"
+  },
+  {
+    "entity_1": "卫子夫",
+    "entity_2": "陈阿娇",
+    "relationship": "情敌"
+  },
+  {
+    "entity_1": "刘弗陵",
+    "entity_2": "刘启",
+    "relationship": "爷孙"
+  },
+  {
+    "entity_1": "刘弗陵",
+    "entity_2": "刘彻",
+    "relationship": "父子"
+  },
+  {
+    "entity_1": "刘弗陵",
+    "entity_2": "钩弋夫人",
+    "relationship": "母子"
+  },
+  {
+    "entity_1": "刘嫖",
+    "entity_2": "刘启",
+    "relationship": "姐弟"
+  },
+  {
+    "entity_1": "刘嫖",
+    "entity_2": "刘彻",
+    "relationship": "姑侄"
+  },
+  {
+    "entity_1": "刘嫖",
+    "entity_2": "陈阿娇",
+    "relationship": "母女"
+  },
+  {
+    "entity_1": "刘嫖",
+    "entity_2": "刘武",
+    "relationship": "姐弟"
+  },
+  {
+    "entity_1": "刘嫖",
+    "entity_2": "窦太后",
+    "relationship": "母女"
+  },
+  {
+    "entity_1": "中行说",
+    "entity_2": "伊稚斜单于",
+    "relationship": "谋主.谋士"
+  },
+  {
+    "entity_1": "中行说",
+    "entity_2": "君臣单于",
+    "relationship": "谋主.谋士"
+  },
+  {
+    "entity_1": "伊稚斜单于",
+    "entity_2": "君臣单于",
+    "relationship": "父子"
+  },
+  {
+    "entity_1": "伊稚斜单于",
+    "entity_2": "刘彻",
+    "relationship": "对手"
+  },
+  {
+    "entity_1": "栗妃",
+    "entity_2": "刘启",
+    "relationship": "嫔妃"
+  },
+  {
+    "entity_1": "君臣单于",
+    "entity_2": "刘彻",
+    "relationship": "对手"
+  },
+  {
+    "entity_1": "君臣单于",
+    "entity_2": "刘启",
+    "relationship": "对手"
+  },
+  {
+    "entity_1": "陈阿娇",
+    "entity_2": "刘彻",
+    "relationship": "前夫妻"
+  },
+  {
+    "entity_1": "刘武",
+    "entity_2": "刘启",
+    "relationship": "兄弟"
+  },
+  {
+    "entity_1": "刘武",
+    "entity_2": "刘彻",
+    "relationship": "叔侄"
+  },
+  {
+    "entity_1": "刘武",
+    "entity_2": "窦太后",
+    "relationship": "母子"
+  },
+  {
+    "entity_1": "刘濞",
+    "entity_2": "刘启",
+    "relationship": "君臣"
+  },
+  {
+    "entity_1": "刘陵",
+    "entity_2": "刘彻",
+    "relationship": "情人"
+  },
+  {
+    "entity_1": "刘陵",
+    "entity_2": "刘安",
+    "relationship": "父女"
+  },
+  {
+    "entity_1": "刘安",
+    "entity_2": "刘启",
+    "relationship": "君臣"
+  },
+  {
+    "entity_1": "刘安",
+    "entity_2": "刘彻",
+    "relationship": "君臣"
+  },
+  {
+    "entity_1": "窦太后",
+    "entity_2": "刘启",
+    "relationship": "母子"
+  },
+  {
+    "entity_1": "窦太后",
+    "entity_2": "刘彻",
+    "relationship": "祖母.孙子"
+  },
+  {
+    "entity_1": "窦太后",
+    "entity_2": "窦婴",
+    "relationship": "姑侄"
+  },
+  {
+    "entity_1": "窦婴",
+    "entity_2": "刘彻",
+    "relationship": "君臣"
+  },
+  {
+    "entity_1": "窦婴",
+    "entity_2": "刘启",
+    "relationship": "君臣"
+  },
+  {
+    "entity_1": "钩弋夫人",
+    "entity_2": "刘彻",
+    "relationship": "嫔妃"
+  },
+  {
+    "entity_1": "晁错",
+    "entity_2": "刘启",
+    "relationship": "君臣"
+  },
+  {
+    "entity_1": "周亚夫",
+    "entity_2": "刘彻",
+    "relationship": "君臣"
+  },
+  {
+    "entity_1": "周亚夫",
+    "entity_2": "刘启",
+    "relationship": "君臣"
+  },
+  {
+    "entity_1": "春陀",
+    "entity_2": "刘彻",
+    "relationship": "主仆"
+  },
+  {
+    "entity_1": "春陀",
+    "entity_2": "刘启",
+    "relationship": "君臣"
+  },
+  {
+    "entity_1": "刘启",
+    "entity_2": "刘彻",
+    "relationship": "父子"
+  }
+]
