@@ -24,3 +24,4 @@ def test():
 if __name__ == "__main__":
     test()
     a=10
+    b=30
